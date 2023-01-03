@@ -1,4 +1,4 @@
-<h1>Básico de Python</h1> 
+<h1 align= "center"> Básico de Python</h1> 
 
 > resumo básico sobre Python;  fonte: "Curso Intesivo De Python,(matheus,eric)".
 ```
